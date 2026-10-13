@@ -1,0 +1,125 @@
+{
+  "user": {
+    "name": "Christopher",
+    "location": "Brick, NJ",
+    "tz": "America/New_York"
+  },
+  "deals": {
+    "as_of": "2026-10-13 09:49 AM ET",
+    "items": [
+      {
+        "name": "KAYALI Vanilla | 28 EDP",
+        "retailer": "KAYALI US",
+        "url": "https://us.kayali.com/products/vanilla-28",
+        "kayali_handle": "vanilla-28",
+        "prices": {
+          "100ml": "$150.00",
+          "50ml": "$105.00",
+          "10ml Miniature": "$32.00",
+          "10ml Travel Spray": "$29.00",
+          "1.5ml": "$4.00"
+        },
+        "promo": "Subscribe to the newsletter and get 10% off your first order.",
+        "as_of": "2026-10-13 09:49 AM ET"
+      },
+      {
+        "name": "KAYALI Vanilla | 28 EDP",
+        "retailer": "Sephora",
+        "url": "https://www.sephora.com/product/kayali-vanilla-P439406",
+        "prices": {
+          "100ml": "$150.00",
+          "50ml": "$105.00",
+          "10ml Travel Spray": "$29.00"
+        },
+        "promo": "5% off with Auto-Replenish ($142.50 / $99.75 / $27.55)",
+        "as_of": "2026-10-13 09:50 AM ET",
+        "note": "From search-indexed Sephora page; direct fetch blocked"
+      },
+      {
+        "name": "KAYALI Vanilla Candy Rock Sugar | 42",
+        "retailer": "KAYALI US",
+        "url": "https://us.kayali.com/products/vanilla-candy-rock-sugar-42",
+        "kayali_handle": "vanilla-candy-rock-sugar-42",
+        "prices": {
+          "100ml": "$150.00",
+          "50ml": "$105.00",
+          "10ml Miniature": "$32.00",
+          "10ml Travel Spray": "$29.00",
+          "1.5ml": "$4.00"
+        },
+        "promo": "Subscribe to the newsletter and get 10% off your first order.",
+        "as_of": "2026-10-13 09:49 AM ET"
+      },
+      {
+        "name": "KAYALI Utopia Vanilla Coco | 21",
+        "retailer": "KAYALI US",
+        "url": "https://us.kayali.com/products/utopia-vanilla-coco-21",
+        "kayali_handle": "utopia-vanilla-coco-21",
+        "prices": {
+          "100ml": "$150.00",
+          "50ml": "$105.00",
+          "10ml Miniature": "$32.00",
+          "1.5ml": "$4.00"
+        },
+        "promo": "Subscribe to the newsletter and get 10% off your first order.",
+        "as_of": "2026-10-13 09:49 AM ET"
+      },
+      {
+        "name": "Burberry Goddess Amber Vanilla EDP Intense",
+        "retailer": "Ulta",
+        "url": "https://www.ulta.com/p/goddess-amber-vanilla-eau-de-parfum-intense-with-maple-syrup-amber-pimprod2060253",
+        "prices": {
+          "range (4 sizes)": "$38.00 \u2013 $192.00"
+        },
+        "promo": "Free gift with purchase (no code shown)",
+        "as_of": "2026-10-13 09:48 AM ET"
+      },
+      {
+        "name": "Burberry Goddess EDP (Vanilla & Lavender)",
+        "retailer": "Ulta",
+        "url": "https://www.ulta.com/p/burberry-goddess-eau-de-parfum-with-vanilla-lavender-pimprod2040465",
+        "prices": {
+          "range (5 sizes)": "$40.00 \u2013 $185.00"
+        },
+        "promo": "Free gift with purchase (no code shown)",
+        "as_of": "2026-10-13 09:48 AM ET"
+      },
+      {
+        "name": "KAYALI Vanilla | 28 EDP",
+        "retailer": "Ulta",
+        "url": "https://www.ulta.com/search?search=kayali+vanilla",
+        "prices": "not available",
+        "promo": "",
+        "as_of": "2026-10-13 09:48 AM ET",
+        "note": "Not carried at Ulta"
+      }
+    ]
+  },
+  "bills": {
+    "source": "Household Bills bot",
+    "columns": [
+      "Bill",
+      "Amount",
+      "Due date",
+      "Autopay/Manual",
+      "Who pays",
+      "Paid?"
+    ],
+    "rows": []
+  },
+  "groceries": {
+    "source": "Groceries bot",
+    "note": "Pescatarian-friendly",
+    "items": []
+  },
+  "reservations": {
+    "source": "Dinner Reservations bot",
+    "columns": [
+      "Restaurant",
+      "Date/Time",
+      "Party size",
+      "Platform"
+    ],
+    "items": []
+  }
+}
