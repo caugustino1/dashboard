@@ -1,187 +1,187 @@
 {
- "user": {
-  "name": "Christopher",
-  "location": "Brick, NJ",
-  "tz": "America/New_York"
- },
- "deals": {
-  "as_of": "2026-10-13 10:53 AM ET",
-  "items": [
-   {
-    "name": "KAYALI Vanilla | 28 EDP",
-    "retailer": "KAYALI US",
-    "url": "https://us.kayali.com/products/vanilla-28",
-    "kayali_handle": "vanilla-28",
-    "prices": {
-     "100ml": "$150.00",
-     "50ml": "$105.00",
-     "10ml Miniature": "$32.00",
-     "10ml Travel Spray": "$29.00",
-     "1.5ml": "$4.00"
-    },
-    "promo": "Subscribe to the newsletter and get 10% off your first order.",
-    "as_of": "2026-10-13 10:53 AM ET"
-   },
-   {
-    "name": "KAYALI Vanilla | 28 EDP",
-    "retailer": "Sephora",
-    "url": "https://www.sephora.com/product/kayali-vanilla-P439406",
-    "prices": {
-     "100ml": "$150.00",
-     "50ml": "$105.00",
-     "10ml Travel Spray": "$29.00"
-    },
-    "promo": "5% off with Auto-Replenish ($142.50 / $99.75 / $27.55)",
-    "as_of": "2026-10-13 09:50 AM ET",
-    "note": "From search-indexed Sephora page; direct fetch blocked"
-   },
-   {
-    "name": "KAYALI Vanilla Candy Rock Sugar | 42",
-    "retailer": "KAYALI US",
-    "url": "https://us.kayali.com/products/vanilla-candy-rock-sugar-42",
-    "kayali_handle": "vanilla-candy-rock-sugar-42",
-    "prices": {
-     "100ml": "$150.00",
-     "50ml": "$105.00",
-     "10ml Miniature": "$32.00",
-     "10ml Travel Spray": "$29.00",
-     "1.5ml": "$4.00"
-    },
-    "promo": "Subscribe to the newsletter and get 10% off your first order.",
-    "as_of": "2026-10-13 10:53 AM ET"
-   },
-   {
-    "name": "KAYALI Utopia Vanilla Coco | 21",
-    "retailer": "KAYALI US",
-    "url": "https://us.kayali.com/products/utopia-vanilla-coco-21",
-    "kayali_handle": "utopia-vanilla-coco-21",
-    "prices": {
-     "100ml": "$150.00",
-     "50ml": "$105.00",
-     "10ml Miniature": "$32.00",
-     "1.5ml": "$4.00"
-    },
-    "promo": "Subscribe to the newsletter and get 10% off your first order.",
-    "as_of": "2026-10-13 10:53 AM ET"
-   },
-   {
-    "name": "Burberry Goddess Amber Vanilla EDP Intense",
-    "retailer": "Ulta",
-    "url": "https://www.ulta.com/p/goddess-amber-vanilla-eau-de-parfum-intense-with-maple-syrup-amber-pimprod2060253",
-    "prices": {
-     "range (4 sizes)": "$38.00 – $192.00"
-    },
-    "promo": "Free gift with purchase (no code shown)",
-    "as_of": "2026-10-13 09:48 AM ET"
-   },
-   {
-    "name": "Burberry Goddess EDP (Vanilla & Lavender)",
-    "retailer": "Ulta",
-    "url": "https://www.ulta.com/p/burberry-goddess-eau-de-parfum-with-vanilla-lavender-pimprod2040465",
-    "prices": {
-     "range (5 sizes)": "$40.00 – $185.00"
-    },
-    "promo": "Free gift with purchase (no code shown)",
-    "as_of": "2026-10-13 09:48 AM ET"
-   },
-   {
-    "name": "KAYALI Vanilla | 28 EDP",
-    "retailer": "Ulta",
-    "url": "https://www.ulta.com/search?search=kayali+vanilla",
-    "prices": "not available",
-    "promo": "",
-    "as_of": "2026-10-13 09:48 AM ET",
-    "note": "Not carried at Ulta"
-   }
-  ]
- },
- "bills": {
-  "source": "Household Bills bot",
-  "columns": [
-   "Bill",
-   "Amount",
-   "Due date",
-   "Autopay/Manual",
-   "Who pays",
-   "Paid?"
-  ],
-  "rows": []
- },
- "groceries": {
-  "source": "Groceries bot",
-  "note": "Pescatarian-friendly",
-  "items": []
- },
- "reservations": {
-  "source": "Dinner Reservations bot",
-  "columns": [
-   "Restaurant",
-   "Date/Time",
-   "Party size",
-   "Platform"
-  ],
-  "items": [
-   [
-    "Charlie's of Bay Head",
-    "Sat Dec 5, 2026, 8:30 PM ET",
-    "2",
-    "Booked by you"
-   ]
-  ]
- },
- "fun_things": {
-  "source": "Fun Things To Do bot",
-  "as_of": "2026-10-13 11:10 AM ET",
-  "items": [
-   {
-    "name": "Kenny vs Spenny live (21+)",
-    "datetime": "Wed Oct 14, 2026 · 7 PM",
-    "place": "House of Independents, 572 Cookman Ave, Asbury Park",
-    "price": "From ~$76–80 (resale listings)",
-    "link": "https://nightout.com/events/v/kenny-vs-spenny-21-event-house-of-independents-asbury-park-2026-10-14/tickets"
-   },
-   {
-    "name": "Boo at the Boardwalk (Jenkinson's)",
-    "datetime": "Sat–Sun Oct 17–18 & 24–25, 2026 · 12–4 PM",
-    "place": "Jenkinson's Boardwalk, 300 Ocean Ave, Point Pleasant Beach",
-    "price": "Free to attend; half-price rides; $29.95 Boo-Tastic package (in person)",
-    "link": "https://jenkinsons.com/booattheboardwalk/"
-   },
-   {
-    "name": "Brick Township Trunk or Treat",
-    "datetime": "Thu Oct 22, 2026 · time not listed",
-    "place": "Drum Point Sports Complex, Brick",
-    "price": "not listed",
-    "link": "https://patch.com/new-jersey/brick/trunks-wanted-bricks-trunk-or-treat-event"
-   },
-   {
-    "name": "Big D and the Kids Table + The Pietasters + Devon Kay",
-    "datetime": "Fri Oct 23, 2026 · doors 6:30 PM",
-    "place": "The Wonder Bar, 1213 Ocean Ave, Asbury Park",
-    "price": "not listed",
-    "link": "https://www.songkick.com/concerts/43270311-big-d-and-the-kids-table-at-wonder-bar"
-   },
-   {
-    "name": "Fall Fest at Laurita Winery",
-    "datetime": "Sat Oct 24 (also Sun Oct 25), 2026 · from 12 PM",
-    "place": "Laurita Winery, 85 Archertown Rd, Plumsted",
-    "price": "$15 online (until 6 PM day before), $20 after/at door; under 21 free",
-    "link": "https://www.exploretock.com/lauritawinery/event/623034"
-   },
-   {
-    "name": "Halloween Bingo Family Fun Night (CLCL Foundation)",
-    "datetime": "Sat Oct 24, 2026 · 1–3 PM",
-    "place": "Brick Teen Center, 270 Chambers Bridge Rd, Brick",
-    "price": "Free",
-    "link": "https://clclfoundation.org/event/halloween-bingo-an-october-free-family-fun-night/"
-   },
-   {
-    "name": "Harvest Hayride & a Slice of Fall Fun",
-    "datetime": "Sat Oct 24, 2026 · 12–4 PM",
-    "place": "Bayview Park Pavilion, 6805 Long Beach Blvd, Long Beach Twp (LBI)",
-    "price": "not listed",
-    "link": "https://oceancountytourism.com/event/harvest-hayride-a-slice-of-fall-fun/"
-   }
-  ]
- }
+  "user": {
+    "name": "Christopher",
+    "location": "Brick, NJ",
+    "tz": "America/New_York"
+  },
+  "deals": {
+    "as_of": "2026-10-13 10:53 AM ET",
+    "items": [
+      {
+        "name": "KAYALI Vanilla | 28 EDP",
+        "retailer": "KAYALI US",
+        "url": "https://us.kayali.com/products/vanilla-28",
+        "kayali_handle": "vanilla-28",
+        "prices": {
+          "100ml": "$150.00",
+          "50ml": "$105.00",
+          "10ml Miniature": "$32.00",
+          "10ml Travel Spray": "$29.00",
+          "1.5ml": "$4.00"
+        },
+        "promo": "Subscribe to the newsletter and get 10% off your first order.",
+        "as_of": "2026-10-13 10:53 AM ET"
+      },
+      {
+        "name": "KAYALI Vanilla | 28 EDP",
+        "retailer": "Sephora",
+        "url": "https://www.sephora.com/product/kayali-vanilla-P439406",
+        "prices": {
+          "100ml": "$150.00",
+          "50ml": "$105.00",
+          "10ml Travel Spray": "$29.00"
+        },
+        "promo": "5% off with Auto-Replenish ($142.50 / $99.75 / $27.55)",
+        "as_of": "2026-10-13 09:50 AM ET",
+        "note": "From search-indexed Sephora page; direct fetch blocked"
+      },
+      {
+        "name": "KAYALI Vanilla Candy Rock Sugar | 42",
+        "retailer": "KAYALI US",
+        "url": "https://us.kayali.com/products/vanilla-candy-rock-sugar-42",
+        "kayali_handle": "vanilla-candy-rock-sugar-42",
+        "prices": {
+          "100ml": "$150.00",
+          "50ml": "$105.00",
+          "10ml Miniature": "$32.00",
+          "10ml Travel Spray": "$29.00",
+          "1.5ml": "$4.00"
+        },
+        "promo": "Subscribe to the newsletter and get 10% off your first order.",
+        "as_of": "2026-10-13 10:53 AM ET"
+      },
+      {
+        "name": "KAYALI Utopia Vanilla Coco | 21",
+        "retailer": "KAYALI US",
+        "url": "https://us.kayali.com/products/utopia-vanilla-coco-21",
+        "kayali_handle": "utopia-vanilla-coco-21",
+        "prices": {
+          "100ml": "$150.00",
+          "50ml": "$105.00",
+          "10ml Miniature": "$32.00",
+          "1.5ml": "$4.00"
+        },
+        "promo": "Subscribe to the newsletter and get 10% off your first order.",
+        "as_of": "2026-10-13 10:53 AM ET"
+      },
+      {
+        "name": "Burberry Goddess Amber Vanilla EDP Intense",
+        "retailer": "Ulta",
+        "url": "https://www.ulta.com/p/goddess-amber-vanilla-eau-de-parfum-intense-with-maple-syrup-amber-pimprod2060253",
+        "prices": {
+          "range (4 sizes)": "$38.00 – $192.00"
+        },
+        "promo": "Free gift with purchase (no code shown)",
+        "as_of": "2026-10-13 09:48 AM ET"
+      },
+      {
+        "name": "Burberry Goddess EDP (Vanilla & Lavender)",
+        "retailer": "Ulta",
+        "url": "https://www.ulta.com/p/burberry-goddess-eau-de-parfum-with-vanilla-lavender-pimprod2040465",
+        "prices": {
+          "range (5 sizes)": "$40.00 – $185.00"
+        },
+        "promo": "Free gift with purchase (no code shown)",
+        "as_of": "2026-10-13 09:48 AM ET"
+      },
+      {
+        "name": "KAYALI Vanilla | 28 EDP",
+        "retailer": "Ulta",
+        "url": "https://www.ulta.com/search?search=kayali+vanilla",
+        "prices": "not available",
+        "promo": "",
+        "as_of": "2026-10-13 09:48 AM ET",
+        "note": "Not carried at Ulta"
+      }
+    ]
+  },
+  "bills": {
+    "source": "Household Bills bot",
+    "columns": [
+      "Bill",
+      "Amount",
+      "Due date",
+      "Autopay/Manual",
+      "Who pays",
+      "Paid?"
+    ],
+    "rows": []
+  },
+  "groceries": {
+    "source": "Groceries bot",
+    "note": "Pescatarian-friendly",
+    "items": []
+  },
+  "reservations": {
+    "source": "Dinner Reservations bot",
+    "columns": [
+      "Restaurant",
+      "Date/Time",
+      "Party size",
+      "Platform"
+    ],
+    "items": [
+      [
+        "Charlie's of Bay Head",
+        "Sat Dec 5, 2026, 8:30 PM ET",
+        "2",
+        "Booked by you"
+      ]
+    ]
+  },
+  "fun_things": {
+    "source": "Fun Things To Do bot",
+    "as_of": "2026-10-13 11:25 AM ET",
+    "items": [
+      {
+        "name": "Harvest Arts Festival (Downtown Toms River)",
+        "datetime": "Sat Oct 17, 2026 · 11 AM–5 PM",
+        "place": "Washington St, Downtown Toms River",
+        "price": "Free (free downtown parking)",
+        "link": "https://downtowntomsriver.com/harvest-arts-festival/"
+      },
+      {
+        "name": "Trucktoberfest (Island Heights Fire Co.)",
+        "datetime": "Sat Oct 17, 2026 · 11 AM–6 PM",
+        "place": "Wanamaker Field, Island Heights",
+        "price": "Free admission (donations encouraged)",
+        "link": "https://tomsriver.org/trucktoberfest-2026-island-heights/"
+      },
+      {
+        "name": "Boo at the Boardwalk (Jenkinson's)",
+        "datetime": "Sat–Sun Oct 17–18 & 24–25, 2026 · 12–4 PM",
+        "place": "Jenkinson's Boardwalk, 300 Ocean Ave, Point Pleasant Beach",
+        "price": "Free to attend; half-price rides; $29.95 Boo-Tastic package (in person)",
+        "link": "https://jenkinsons.com/booattheboardwalk/"
+      },
+      {
+        "name": "Autumn Lights Festival for Parkinson's",
+        "datetime": "Sat Oct 24, 2026 · 11 AM–4 PM",
+        "place": "Huddy Park, 39 E Water St, Toms River",
+        "price": "Free (cornhole tournament $80/team)",
+        "link": "https://downtowntomsriver.com/event/autumn-lights-festival-for-parkinsons/"
+      },
+      {
+        "name": "Halloween in the Heights",
+        "datetime": "Sat Oct 24, 2026 · 1 PM–evening (Hocus Pocus 6:30 PM)",
+        "place": "Seaside Heights Boardwalk",
+        "price": "not listed",
+        "link": "https://oceancountytourism.com/event/halloween-in-the-heights/"
+      },
+      {
+        "name": "Haunted Downtown",
+        "datetime": "Sat Oct 24, 2026 · 6–9 PM",
+        "place": "Washington St, Downtown Toms River",
+        "price": "not listed",
+        "link": "https://oceancountytourism.com/event/haunted-downtown/"
+      },
+      {
+        "name": "Toms River 87th Halloween Parade",
+        "datetime": "Sat Oct 31, 2026 · 7 PM step-off",
+        "place": "Main St → Washington St, Downtown Toms River",
+        "price": "Free to watch",
+        "link": "https://oceancountytourism.com/event/toms-river-87th-halloween-parade/"
+      }
+    ]
+  }
 }
