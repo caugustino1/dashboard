@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-10-18 07:49 AM ET",
+    "as_of": "2026-10-19 07:52 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-10-18 07:49 AM ET"
+        "as_of": "2026-10-19 07:52 AM ET"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,7 +48,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-10-18 07:49 AM ET"
+        "as_of": "2026-10-19 07:52 AM ET"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -62,7 +62,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-10-18 07:49 AM ET"
+        "as_of": "2026-10-19 07:52 AM ET"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -144,17 +144,10 @@
     "items": [
       {
         "name": "Boo at the Boardwalk (Jenkinson\u2019s)",
-        "datetime": "Sun Oct 18 & Sat\u2013Sun Oct 24\u201325, 2026 \u00b7 12\u20134 PM",
+        "datetime": "Sat\u2013Sun Oct 24\u201325, 2026 \u00b7 12\u20134 PM",
         "place": "Jenkinson\u2019s Boardwalk, 300 Ocean Ave, Point Pleasant Beach",
         "price": "Free to attend; half-price rides; $29.95 Boo-Tastic package (in person)",
         "link": "https://jenkinsons.com/booattheboardwalk/"
-      },
-      {
-        "name": "Trunk or Treat & Fall Carnival (Aqua-Tots)",
-        "datetime": "Sun Oct 18, 2026 \u00b7 2\u20134 PM",
-        "place": "1358 Hooper Ave, Suite 25, Toms River",
-        "price": "Free",
-        "link": "https://oceancountytourism.com/event/trunk-or-treat-fall-carnival/"
       },
       {
         "name": "Downtown Toms River Scarecrow Walk",
