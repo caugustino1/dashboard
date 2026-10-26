@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-10-25 07:58 AM ET",
+    "as_of": "2026-10-26 07:50 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe and get 10% off your first order",
-        "as_of": "2026-10-25 07:58 AM ET"
+        "as_of": "2026-10-26 07:50 AM ET"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,7 +48,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe and get 10% off your first order",
-        "as_of": "2026-10-25 07:58 AM ET"
+        "as_of": "2026-10-26 07:50 AM ET"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -62,7 +62,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe and get 10% off your first order",
-        "as_of": "2026-10-25 07:58 AM ET"
+        "as_of": "2026-10-26 07:50 AM ET"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -140,14 +140,14 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-10-15 07:57 AM ET",
+    "as_of": "2026-10-26 07:52 AM ET",
     "items": [
       {
-        "name": "Boo at the Boardwalk (Jenkinson\u2019s)",
-        "datetime": "Sat\u2013Sun Oct 24\u201325, 2026 \u00b7 12\u20134 PM",
-        "place": "Jenkinson\u2019s Boardwalk, 300 Ocean Ave, Point Pleasant Beach",
-        "price": "Free to attend; half-price rides; $29.95 Boo-Tastic package (in person)",
-        "link": "https://jenkinsons.com/booattheboardwalk/"
+        "name": "Toms River 87th Halloween Parade",
+        "datetime": "Sat Oct 31, 2026 \u00b7 7 PM step-off",
+        "place": "Main St \u2192 Washington St, Downtown Toms River",
+        "price": "Free to watch",
+        "link": "https://oceancountytourism.com/event/toms-river-87th-halloween-parade/"
       },
       {
         "name": "Downtown Toms River Scarecrow Walk",
@@ -157,11 +157,18 @@
         "link": "https://oceancountytourism.com/event/downtown-toms-river-scarecrow-walk/2026-10-18/"
       },
       {
-        "name": "Toms River 87th Halloween Parade",
-        "datetime": "Sat Oct 31, 2026 \u00b7 7 PM step-off",
-        "place": "Main St \u2192 Washington St, Downtown Toms River",
-        "price": "Free to watch",
-        "link": "https://oceancountytourism.com/event/toms-river-87th-halloween-parade/"
+        "name": "37th Annual Holiday Gifts, Crafts & Collectibles Faire",
+        "datetime": "Sun Nov 1, 2026 \u00b7 10 AM\u20133 PM",
+        "place": "Toms River High School South, 212 Hooper Ave, Toms River",
+        "price": "Free admission",
+        "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "5th Annual Field of Dreams Car & Truck Show",
+        "datetime": "Sun Nov 8, 2026 \u00b7 11 AM\u20133 PM",
+        "place": "RWJBH Field of Dreams, 1505 N. Bay Ave, Toms River",
+        "price": "Free (donations welcome)",
+        "link": "https://rwjbhfieldofdreams.com/events/"
       }
     ]
   }
