@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-01 07:52 AM ET",
+    "as_of": "2026-11-02 07:57 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-01 07:52 AM ET"
+        "as_of": "2026-11-02 07:57 AM ET"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,7 +48,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-01 07:52 AM ET"
+        "as_of": "2026-11-02 07:57 AM ET"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -62,7 +62,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-01 07:52 AM ET"
+        "as_of": "2026-11-02 07:57 AM ET"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -140,21 +140,42 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-01 07:53 AM ET",
+    "as_of": "2026-11-02 07:59 AM ET",
     "items": [
-      {
-        "name": "37th Annual Holiday Gifts, Crafts & Collectibles Faire",
-        "datetime": "Sun Nov 1, 2026 \u00b7 10 AM\u20133 PM",
-        "place": "Toms River High School South, 212 Hooper Ave, Toms River",
-        "price": "Free admission",
-        "link": "https://oceancountyhistory.org/ochs-events/"
-      },
       {
         "name": "5th Annual Field of Dreams Car & Truck Show",
         "datetime": "Sun Nov 8, 2026 \u00b7 11 AM\u20133 PM",
         "place": "RWJBH Field of Dreams, 1505 N. Bay Ave, Toms River",
         "price": "Free (donations welcome)",
         "link": "https://rwjbhfieldofdreams.com/events/"
+      },
+      {
+        "name": "General John Lacey & the Battle of the Crooked Billet (talk by Scott Randolph)",
+        "datetime": "Sun Nov 15, 2026 \u00b7 2\u20134 PM",
+        "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
+        "price": "Free (register by email in advance)",
+        "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "5th Annual Casino Night",
+        "datetime": "Sat Nov 21, 2026 \u00b7 4:30\u201310 PM",
+        "place": "RWJBarnabas Health Arena, 1245 Old Freehold Rd, Toms River",
+        "price": "See event page",
+        "link": "https://rwjbhfieldofdreams.com/events/"
+      },
+      {
+        "name": "Downtown Farmers' Market",
+        "datetime": "Wed Nov 25, 2026 \u00b7 10 AM\u20133 PM",
+        "place": "33 Washington St, Toms River",
+        "price": "Free",
+        "link": "https://downtowntomsriver.com/event/downtown-farmers-market-2026/2026-11-25/"
+      },
+      {
+        "name": "OCHS Holiday Open House with Santa",
+        "datetime": "Sat Nov 28, 2026 \u00b7 10 AM\u20132 PM",
+        "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
+        "price": "Free",
+        "link": "https://oceancountyhistory.org/ochs-events/"
       }
     ]
   }
