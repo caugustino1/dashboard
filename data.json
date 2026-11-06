@@ -140,14 +140,35 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-02 07:59 AM ET",
+    "as_of": "2026-11-06 07:56 AM ET",
     "items": [
+      {
+        "name": "Holly Berry Bazaar",
+        "datetime": "Sat Nov 7, 2026 \u00b7 9 AM\u20133 PM",
+        "place": "First United Methodist Church, 129 Chestnut St, Toms River",
+        "price": "Free to browse (cash only for purchases; proceeds to charity)",
+        "link": "https://wobm.com/holly-berry-bazaar-toms-river-2026/"
+      },
+      {
+        "name": "Green Island Fall Festival",
+        "datetime": "Sat Nov 7, 2026 \u00b7 10 AM\u20134 PM (rain date Sun Nov 8)",
+        "place": "Green Island Clubhouse, 100 Green Island Rd, Toms River",
+        "price": "Free",
+        "link": "https://explorenewjersey.org/green-island-fall-festival/"
+      },
       {
         "name": "5th Annual Field of Dreams Car & Truck Show",
         "datetime": "Sun Nov 8, 2026 \u00b7 11 AM\u20133 PM",
         "place": "RWJBH Field of Dreams, 1505 N. Bay Ave, Toms River",
         "price": "Free (donations welcome)",
         "link": "https://rwjbhfieldofdreams.com/events/"
+      },
+      {
+        "name": "Jazz on a Sunday Afternoon: Louis Armstrong Hot Five Centennial",
+        "datetime": "Sun Nov 8, 2026 \u00b7 3 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "See Grunin Center",
+        "link": "https://www.newjerseystage.com/articles3/2026/11/03/events-this-week-in-new-jersey-from-november-3-9-2026/"
       },
       {
         "name": "General John Lacey & the Battle of the Crooked Billet (talk by Scott Randolph)",
@@ -162,20 +183,6 @@
         "place": "RWJBarnabas Health Arena, 1245 Old Freehold Rd, Toms River",
         "price": "See event page",
         "link": "https://rwjbhfieldofdreams.com/events/"
-      },
-      {
-        "name": "Downtown Farmers' Market",
-        "datetime": "Wed Nov 25, 2026 \u00b7 10 AM\u20133 PM",
-        "place": "33 Washington St, Toms River",
-        "price": "Free",
-        "link": "https://downtowntomsriver.com/event/downtown-farmers-market-2026/2026-11-25/"
-      },
-      {
-        "name": "OCHS Holiday Open House with Santa",
-        "datetime": "Sat Nov 28, 2026 \u00b7 10 AM\u20132 PM",
-        "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
-        "price": "Free",
-        "link": "https://oceancountyhistory.org/ochs-events/"
       }
     ]
   }
