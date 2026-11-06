@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-06 07:55 AM ET",
+    "as_of": "2026-11-06 07:58 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-06 07:55 AM ET"
+        "as_of": "2026-11-06 07:58 AM ET"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,7 +48,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-06 07:55 AM ET"
+        "as_of": "2026-11-06 07:58 AM ET"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -62,7 +62,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-06 07:55 AM ET"
+        "as_of": "2026-11-06 07:58 AM ET"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -140,7 +140,7 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-06 07:56 AM ET",
+    "as_of": "2026-11-06 07:58 AM ET",
     "items": [
       {
         "name": "Holly Berry Bazaar",
@@ -167,8 +167,15 @@
         "name": "Jazz on a Sunday Afternoon: Louis Armstrong Hot Five Centennial",
         "datetime": "Sun Nov 8, 2026 \u00b7 3 PM",
         "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
-        "price": "See Grunin Center",
-        "link": "https://www.newjerseystage.com/articles3/2026/11/03/events-this-week-in-new-jersey-from-november-3-9-2026/"
+        "price": "$30 / $25 seniors / $17 students",
+        "link": "https://www.grunincenter.org/events/louis-armstrong-hot-five-centennial-celebration-feat-andrew-stephens/"
+      },
+      {
+        "name": "Toms River Veterans Day Parade",
+        "datetime": "Wed Nov 11, 2026 \u00b7 morning (participants meet 8:30 AM)",
+        "place": "Downtown Toms River (near Main St & Route 37)",
+        "price": "Free",
+        "link": "https://tomsriver.org/toms-river-veterans-day-parade-returns-november-11/"
       },
       {
         "name": "General John Lacey & the Battle of the Crooked Billet (talk by Scott Randolph)",
