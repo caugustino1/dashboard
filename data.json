@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-07 07:57 AM ET",
+    "as_of": "2026-11-08 07:58 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-07 07:57 AM ET"
+        "as_of": "2026-11-08 07:58 AM ET"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,7 +48,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-07 07:57 AM ET"
+        "as_of": "2026-11-08 07:58 AM ET"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -62,7 +62,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-07 07:57 AM ET"
+        "as_of": "2026-11-08 07:58 AM ET"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -142,20 +142,6 @@
     "source": "Fun Things To Do bot",
     "as_of": "2026-11-06 07:58 AM ET",
     "items": [
-      {
-        "name": "Holly Berry Bazaar",
-        "datetime": "Sat Nov 7, 2026 \u00b7 9 AM\u20133 PM",
-        "place": "First United Methodist Church, 129 Chestnut St, Toms River",
-        "price": "Free to browse (cash only for purchases; proceeds to charity)",
-        "link": "https://wobm.com/holly-berry-bazaar-toms-river-2026/"
-      },
-      {
-        "name": "Green Island Fall Festival",
-        "datetime": "Sat Nov 7, 2026 \u00b7 10 AM\u20134 PM (rain date Sun Nov 8)",
-        "place": "Green Island Clubhouse, 100 Green Island Rd, Toms River",
-        "price": "Free",
-        "link": "https://explorenewjersey.org/green-island-fall-festival/"
-      },
       {
         "name": "5th Annual Field of Dreams Car & Truck Show",
         "datetime": "Sun Nov 8, 2026 \u00b7 11 AM\u20133 PM",
