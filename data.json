@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-08 07:58 AM ET",
+    "as_of": "2026-11-09 07:52 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -19,8 +19,8 @@
           "10ml Travel Spray": "$29.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-08 07:58 AM ET"
+        "promo": "Enjoy up to 30% off your fave scents.",
+        "as_of": "2026-11-09 07:52 AM ET"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -47,8 +47,8 @@
           "10ml Travel Spray": "$29.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-08 07:58 AM ET"
+        "promo": "Enjoy up to 30% off your fave scents.",
+        "as_of": "2026-11-09 07:52 AM ET"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -61,8 +61,8 @@
           "10ml Miniature": "$32.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Subscribe to the newsletter and get 10% off your first order.",
-        "as_of": "2026-11-08 07:58 AM ET"
+        "promo": "Enjoy up to 30% off your fave scents.",
+        "as_of": "2026-11-09 07:52 AM ET"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -140,26 +140,12 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-06 07:58 AM ET",
+    "as_of": "2026-11-09 07:52 AM ET",
     "items": [
       {
-        "name": "5th Annual Field of Dreams Car & Truck Show",
-        "datetime": "Sun Nov 8, 2026 \u00b7 11 AM\u20133 PM",
-        "place": "RWJBH Field of Dreams, 1505 N. Bay Ave, Toms River",
-        "price": "Free (donations welcome)",
-        "link": "https://rwjbhfieldofdreams.com/events/"
-      },
-      {
-        "name": "Jazz on a Sunday Afternoon: Louis Armstrong Hot Five Centennial",
-        "datetime": "Sun Nov 8, 2026 \u00b7 3 PM",
-        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
-        "price": "$30 / $25 seniors / $17 students",
-        "link": "https://www.grunincenter.org/events/louis-armstrong-hot-five-centennial-celebration-feat-andrew-stephens/"
-      },
-      {
         "name": "Toms River Veterans Day Parade",
-        "datetime": "Wed Nov 11, 2026 \u00b7 morning (participants meet 8:30 AM)",
-        "place": "Downtown Toms River (near Main St & Route 37)",
+        "datetime": "Wed Nov 11, 2026 \u00b7 9:30 AM (participants meet 8:30 AM)",
+        "place": "Downtown Toms River (starts at Routes 37 & 166, then Main St)",
         "price": "Free",
         "link": "https://tomsriver.org/toms-river-veterans-day-parade-returns-november-11/"
       },
@@ -171,11 +157,32 @@
         "link": "https://oceancountyhistory.org/ochs-events/"
       },
       {
+        "name": "GPAA presents: Present Laughter",
+        "datetime": "Fri Nov 20\u2013Sun Nov 22, 2026 \u00b7 Fri 7 PM; Sat 2 & 7 PM; Sun 2 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$24",
+        "link": "https://www.grunincenter.org/events/gpaa-presents-present-laughter/"
+      },
+      {
         "name": "5th Annual Casino Night",
         "datetime": "Sat Nov 21, 2026 \u00b7 4:30\u201310 PM",
         "place": "RWJBarnabas Health Arena, 1245 Old Freehold Rd, Toms River",
         "price": "See event page",
         "link": "https://rwjbhfieldofdreams.com/events/"
+      },
+      {
+        "name": "Pictures with Santa",
+        "datetime": "Fri Nov 27, 2026 \u00b7 10:30 AM\u20131 PM",
+        "place": "Toms River Youth Services building (next to RWJBH Field of Dreams, 1505 N. Bay Ave)",
+        "price": "See event page",
+        "link": "https://rwjbhfieldofdreams.com/events/"
+      },
+      {
+        "name": "Holiday Open House",
+        "datetime": "Sat Nov 28, 2026 \u00b7 10 AM\u20132 PM",
+        "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
+        "price": "Free",
+        "link": "https://oceancountyhistory.org/ochs-events/"
       }
     ]
   }
