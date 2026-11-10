@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-09 07:52 AM ET",
+    "as_of": "2026-11-10 07:54 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-09 07:52 AM ET"
+        "as_of": "2026-11-10 07:54 AM ET"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -31,9 +31,9 @@
           "50ml": "$105.00",
           "10ml Travel Spray": "$29.00"
         },
-        "promo": "Code ALLONSALE through Nov 9: Rouge 20% / VIB 15% / Insider 10% (\u2248$120 / $127.50 / $135 on 100ml)",
-        "as_of": "2026-11-06 10:59 AM ET",
-        "note": "Site list still $150; discount applies at checkout with ALLONSALE"
+        "promo": "",
+        "as_of": "2026-11-10 07:55 AM ET",
+        "note": "ALLONSALE Savings Event ended Nov 9; listed prices shown"
       },
       {
         "name": "KAYALI Vanilla Candy Rock Sugar | 42",
@@ -48,7 +48,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-09 07:52 AM ET"
+        "as_of": "2026-11-10 07:54 AM ET"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -62,7 +62,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-09 07:52 AM ET"
+        "as_of": "2026-11-10 07:54 AM ET"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -140,7 +140,7 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-09 07:52 AM ET",
+    "as_of": "2026-11-10 07:55 AM ET",
     "items": [
       {
         "name": "Toms River Veterans Day Parade",
@@ -164,6 +164,20 @@
         "link": "https://www.grunincenter.org/events/gpaa-presents-present-laughter/"
       },
       {
+        "name": "Toms River East Marching Raiders Craft & Vendor Fair",
+        "datetime": "Sat Nov 21, 2026 \u00b7 8 AM\u20133 PM",
+        "place": "1225 Raider Way, Toms River",
+        "price": "See event page",
+        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
+      },
+      {
+        "name": "Thanksgiving Homecoming & Harvest Celebration",
+        "datetime": "Sat Nov 21, 2026 \u00b7 12\u20136 PM",
+        "place": "1 Drake Lane, South Toms River",
+        "price": "Free",
+        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
+      },
+      {
         "name": "5th Annual Casino Night",
         "datetime": "Sat Nov 21, 2026 \u00b7 4:30\u201310 PM",
         "place": "RWJBarnabas Health Arena, 1245 Old Freehold Rd, Toms River",
@@ -182,6 +196,13 @@
         "datetime": "Sat Nov 28, 2026 \u00b7 10 AM\u20132 PM",
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
         "price": "Free",
+        "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "Women of the American Revolution (talk by TJ Fallon)",
+        "datetime": "Sun Dec 13, 2026 \u00b7 2\u20134 PM",
+        "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
+        "price": "Free (register by email in advance)",
         "link": "https://oceancountyhistory.org/ochs-events/"
       }
     ]
