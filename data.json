@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-10 07:54 AM ET",
+    "as_of": "2026-11-11 07:55 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-10 07:54 AM ET"
+        "as_of": "2026-11-11 07:55 AM ET"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,7 +48,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-10 07:54 AM ET"
+        "as_of": "2026-11-11 07:55 AM ET"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -62,7 +62,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-10 07:54 AM ET"
+        "as_of": "2026-11-11 07:55 AM ET"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -140,12 +140,12 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-10 07:55 AM ET",
+    "as_of": "2026-11-11 07:55 AM ET",
     "items": [
       {
         "name": "Toms River Veterans Day Parade",
-        "datetime": "Wed Nov 11, 2026 \u00b7 9:30 AM (participants meet 8:30 AM)",
-        "place": "Downtown Toms River (starts at Routes 37 & 166, then Main St)",
+        "datetime": "Wed Nov 11, 2026 \u00b7 participants meet 8:30 AM",
+        "place": "Downtown Toms River (participants meet near Main Street and Route 37)",
         "price": "Free",
         "link": "https://tomsriver.org/toms-river-veterans-day-parade-returns-november-11/"
       },
@@ -185,6 +185,13 @@
         "link": "https://rwjbhfieldofdreams.com/events/"
       },
       {
+        "name": "Holiday Shopping Event at Toms River Country Club",
+        "datetime": "Sun Nov 22, 2026 \u00b7 10 AM\u20132 PM",
+        "place": "Toms River Country Club, 419 Washington Street, Toms River",
+        "price": "$5 admission (lunch available for purchase)",
+        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
+      },
+      {
         "name": "Pictures with Santa",
         "datetime": "Fri Nov 27, 2026 \u00b7 10:30 AM\u20131 PM",
         "place": "Toms River Youth Services building (next to RWJBH Field of Dreams, 1505 N. Bay Ave)",
@@ -192,11 +199,39 @@
         "link": "https://rwjbhfieldofdreams.com/events/"
       },
       {
+        "name": "Sip, Shop & Share the Love",
+        "datetime": "Fri Nov 27\u2013Sun Nov 29, 2026",
+        "place": "Spire Coffeehouse, 1922 Hooper Avenue, Toms River",
+        "price": "See event page",
+        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
+      },
+      {
         "name": "Holiday Open House",
         "datetime": "Sat Nov 28, 2026 \u00b7 10 AM\u20132 PM",
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
         "price": "Free",
         "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "Small Business Saturday in Downtown Toms River",
+        "datetime": "Sat Nov 28, 2026",
+        "place": "Downtown Toms River",
+        "price": "Free to browse",
+        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
+      },
+      {
+        "name": "Holiday Craft & Vendor Fair",
+        "datetime": "Sat Nov 28, 2026 \u00b7 10 AM\u20132:30 PM",
+        "place": "American Legion Unit 129, 2025 Church Road, Toms River",
+        "price": "See event page",
+        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
+      },
+      {
+        "name": "Pictures with Santa at Toms River Artist Community",
+        "datetime": "Sat Nov 28\u2013Sun Nov 29, 2026 \u00b7 10 AM\u20134 PM",
+        "place": "40 Main Street, downtown Toms River",
+        "price": "Minimum $25 donation per family",
+        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
       },
       {
         "name": "Women of the American Revolution (talk by TJ Fallon)",
