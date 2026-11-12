@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-11 07:55 AM ET",
+    "as_of": "2026-11-12 07:53 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-11 07:55 AM ET"
+        "as_of": "2026-11-12 07:53 AM ET"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,7 +48,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-11 07:55 AM ET"
+        "as_of": "2026-11-12 07:53 AM ET"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -62,7 +62,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-11 07:55 AM ET"
+        "as_of": "2026-11-12 07:53 AM ET"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -140,15 +140,8 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-11 07:55 AM ET",
+    "as_of": "2026-11-12 07:55 AM ET",
     "items": [
-      {
-        "name": "Toms River Veterans Day Parade",
-        "datetime": "Wed Nov 11, 2026 \u00b7 participants meet 8:30 AM",
-        "place": "Downtown Toms River (participants meet near Main Street and Route 37)",
-        "price": "Free",
-        "link": "https://tomsriver.org/toms-river-veterans-day-parade-returns-november-11/"
-      },
       {
         "name": "General John Lacey & the Battle of the Crooked Billet (talk by Scott Randolph)",
         "datetime": "Sun Nov 15, 2026 \u00b7 2\u20134 PM",
@@ -234,8 +227,71 @@
         "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
       },
       {
+        "name": "Downtown Toms River Tree Lighting",
+        "datetime": "Fri Dec 4, 2026 \u00b7 5:30\u20137:30 PM",
+        "place": "Toms River Town Hall, 33 Washington Street, Toms River",
+        "price": "Free",
+        "link": "https://tomsriver.org/downtown-toms-river-to-kick-off-holiday-season-with-annual-christmas-tree-lighting/"
+      },
+      {
+        "name": "Winter Wonderland",
+        "datetime": "Sat Dec 5, 2026 \u00b7 11 AM\u20134 PM",
+        "place": "Washington Street, downtown Toms River",
+        "price": "See event page",
+        "link": "https://tomsriver.org/downtown-toms-river-to-kick-off-holiday-season-with-annual-christmas-tree-lighting/"
+      },
+      {
+        "name": "A Christmas Carol",
+        "datetime": "Sat Dec 5, 2026 \u00b7 1 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$20 adults, $17 children 12 and under",
+        "link": "https://www.grunincenter.org/events/a-christmas-carol/"
+      },
+      {
+        "name": "The Nutcracker",
+        "datetime": "Sat Dec 12, 2026 \u00b7 1 PM & 4 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$20 adults, $17 children 12 and under",
+        "link": "https://www.grunincenter.org/events/the-nutcracker/"
+      },
+      {
+        "name": "Winter Solstice Celebration",
+        "datetime": "Sat Dec 12, 2026 \u00b7 10 AM\u20132 PM",
+        "place": "Cooper Environmental Center, Cattus Island County Park, 1170 Cattus Island Blvd, Toms River",
+        "price": "Free",
+        "link": "https://oceancountytourism.com/event/winter-solstice-celebration-2/"
+      },
+      {
+        "name": "OCL Book Fest 2026: Cozy Up",
+        "datetime": "Sat Dec 12, 2026 \u00b7 10 AM\u20133 PM",
+        "place": "Ocean County Library, Toms River Branch",
+        "price": "See event page",
+        "link": "https://theoceancountylibrary.libnet.info/event/17135345"
+      },
+      {
         "name": "Women of the American Revolution (talk by TJ Fallon)",
         "datetime": "Sun Dec 13, 2026 \u00b7 2\u20134 PM",
+        "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
+        "price": "Free (register by email in advance)",
+        "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "Revolutionary Tales & Historic Ramblings In & Around Toms River, NJ (talk by Jeffrey O. Brown)",
+        "datetime": "Sun Jan 10, 2027 \u00b7 2\u20134 PM",
+        "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
+        "price": "Free (register by email in advance)",
+        "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "Historic Winter Storms of New Jersey (talk by Don Colgan)",
+        "datetime": "Sun Feb 7, 2027 \u00b7 2\u20134 PM",
+        "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
+        "price": "Free (register by email in advance)",
+        "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "The American Revolution on the Jersey Shore (talk by Michael S. Adelberg)",
+        "datetime": "Sun Mar 14, 2027 \u00b7 2\u20134 PM",
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
         "price": "Free (register by email in advance)",
         "link": "https://oceancountyhistory.org/ochs-events/"
