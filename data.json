@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-12 07:53 AM ET",
+    "as_of": "2026-11-12 04:20 PM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -13,14 +13,15 @@
         "url": "https://us.kayali.com/products/vanilla-28",
         "kayali_handle": "vanilla-28",
         "prices": {
-          "100ml": "$150.00",
-          "50ml": "$105.00",
+          "100ml": "$105.00",
+          "50ml": "$84.00",
           "10ml Miniature": "$32.00",
           "10ml Travel Spray": "$29.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-12 07:53 AM ET"
+        "promo": "Scentsational Savings spend ladder, no code: 30% off 100ml ($105, $1.05/ml); 20% off 50ml ($84). $150 cart threshold (one 100ml meets it)",
+        "as_of": "2026-11-12 04:20 PM ET",
+        "note": "List $150 / $105; sale prices apply at checkout with no code"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
