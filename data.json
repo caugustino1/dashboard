@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-12 04:20 PM ET",
+    "as_of": "2026-11-13 07:57 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -13,15 +13,15 @@
         "url": "https://us.kayali.com/products/vanilla-28",
         "kayali_handle": "vanilla-28",
         "prices": {
-          "100ml": "$105.00",
-          "50ml": "$84.00",
+          "100ml": "$150.00",
+          "50ml": "$105.00",
           "10ml Miniature": "$32.00",
           "10ml Travel Spray": "$29.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Scentsational Savings spend ladder, no code: 30% off 100ml ($105, $1.05/ml); 20% off 50ml ($84). $150 cart threshold (one 100ml meets it)",
-        "as_of": "2026-11-12 04:20 PM ET",
-        "note": "List $150 / $105; sale prices apply at checkout with no code"
+        "promo": "Scentsational Savings spend ladder, no code: 10% off $50+, 20% off $100+, 30% off $150+. One 100ml is $105; one 50ml is $84.",
+        "as_of": "2026-11-13 07:57 AM ET",
+        "note": "List prices shown; sale prices apply at checkout with no code"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,8 +48,9 @@
           "10ml Travel Spray": "$29.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-12 07:53 AM ET"
+        "promo": "Scentsational Savings spend ladder, no code: 10% off $50+, 20% off $100+, 30% off $150+. One 100ml is $105; one 50ml is $84.",
+        "as_of": "2026-11-13 07:57 AM ET",
+        "note": "List prices shown; sale prices apply at checkout with no code"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -62,8 +63,9 @@
           "10ml Miniature": "$32.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-12 07:53 AM ET"
+        "promo": "Scentsational Savings spend ladder, no code: 10% off $50+, 20% off $100+, 30% off $150+. One 100ml is $105; one 50ml is $84.",
+        "as_of": "2026-11-13 07:57 AM ET",
+        "note": "List prices shown; sale prices apply at checkout with no code"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -141,8 +143,15 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-12 07:55 AM ET",
+    "as_of": "2026-11-13 08:00 AM ET",
     "items": [
+      {
+        "name": "A Day for the Bay",
+        "datetime": "Sat Nov 14, 2026 \u00b7 11 AM\u20135 PM",
+        "place": "Silverton Farms, 1520 Silverton Road, Toms River",
+        "price": "$10 entry donation per person",
+        "link": "https://oceancountytourism.com/event/82088/"
+      },
       {
         "name": "General John Lacey & the Battle of the Crooked Billet (talk by Scott Randolph)",
         "datetime": "Sun Nov 15, 2026 \u00b7 2\u20134 PM",
@@ -184,6 +193,13 @@
         "place": "Toms River Country Club, 419 Washington Street, Toms River",
         "price": "$5 admission (lunch available for purchase)",
         "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
+      },
+      {
+        "name": "Jersey Shore Comic Book Holiday Extravaganza",
+        "datetime": "Sun Nov 22, 2026 \u00b7 10 AM\u20134 PM",
+        "place": "Toms River Elks Lodge #1875, 600 Washington Street, Toms River",
+        "price": "$5; kids 10 and under free",
+        "link": "https://jerseyshorecomicbookshow.com/holiday-extravaganza-1"
       },
       {
         "name": "Pictures with Santa",
@@ -228,6 +244,13 @@
         "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
       },
       {
+        "name": "Ocean County Christmas Tree Lighting Ceremony",
+        "datetime": "Wed Dec 2, 2026 \u00b7 4:45 PM",
+        "place": "Ocean County Administration Building West Lawn, 101 Hooper Ave, Toms River",
+        "price": "Free",
+        "link": "https://oceancountytourism.com/event/ocean-countys-christmas-tree-lighting-ceremony/"
+      },
+      {
         "name": "Downtown Toms River Tree Lighting",
         "datetime": "Fri Dec 4, 2026 \u00b7 5:30\u20137:30 PM",
         "place": "Toms River Town Hall, 33 Washington Street, Toms River",
@@ -247,6 +270,20 @@
         "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
         "price": "$20 adults, $17 children 12 and under",
         "link": "https://www.grunincenter.org/events/a-christmas-carol/"
+      },
+      {
+        "name": "OCC Concert Band: Magic of the Season",
+        "datetime": "Sat Dec 5, 2026 \u00b7 7 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$28 adults, $24 seniors, $14 children 12 and under",
+        "link": "https://www.grunincenter.org/events/occ-concert-band-magic-of-the-season/"
+      },
+      {
+        "name": "Broadway for the Holidays",
+        "datetime": "Fri Dec 11\u2013Sun Dec 20, 2026 \u00b7 Fri 7:30 PM; Sat 2 & 7:30 PM; Sun 2 PM (see event page for all dates)",
+        "place": "Grunin Center Black Box Theater, Bldg 11B, 1 College Drive, Toms River",
+        "price": "$26 adults, $24 seniors, $22 students",
+        "link": "https://www.grunincenter.org/events/broadway-for-the-holidays/"
       },
       {
         "name": "The Nutcracker",
@@ -275,6 +312,13 @@
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
         "price": "Free (register by email in advance)",
         "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "Downtown Farmer's Market",
+        "datetime": "Sat Dec 16, 2026 \u00b7 10 AM\u20133 PM",
+        "place": "33 Washington Street, downtown Toms River",
+        "price": "Free",
+        "link": "https://downtowntomsriver.com/event/downtown-farmers-market-2026/2026-12-16/"
       },
       {
         "name": "Revolutionary Tales & Historic Ramblings In & Around Toms River, NJ (talk by Jeffrey O. Brown)",
