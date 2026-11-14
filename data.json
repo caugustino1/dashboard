@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-13 07:57 AM ET",
+    "as_of": "2026-11-14 07:57 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -19,9 +19,9 @@
           "10ml Travel Spray": "$29.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Scentsational Savings spend ladder, no code: 10% off $50+, 20% off $100+, 30% off $150+. One 100ml is $105; one 50ml is $84.",
-        "as_of": "2026-11-13 07:57 AM ET",
-        "note": "List prices shown; sale prices apply at checkout with no code"
+        "promo": "Scentsational Month: The more you spend, the more you save \u2014 up to 30% off. Extra 10% off with signup.",
+        "as_of": "2026-11-14 07:57 AM ET",
+        "note": "List prices shown; spend-ladder sale prices apply at checkout"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,9 +48,9 @@
           "10ml Travel Spray": "$29.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Scentsational Savings spend ladder, no code: 10% off $50+, 20% off $100+, 30% off $150+. One 100ml is $105; one 50ml is $84.",
-        "as_of": "2026-11-13 07:57 AM ET",
-        "note": "List prices shown; sale prices apply at checkout with no code"
+        "promo": "Scentsational Month: The more you spend, the more you save \u2014 up to 30% off. Extra 10% off with signup.",
+        "as_of": "2026-11-14 07:57 AM ET",
+        "note": "List prices shown; spend-ladder sale prices apply at checkout"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -63,9 +63,9 @@
           "10ml Miniature": "$32.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Scentsational Savings spend ladder, no code: 10% off $50+, 20% off $100+, 30% off $150+. One 100ml is $105; one 50ml is $84.",
-        "as_of": "2026-11-13 07:57 AM ET",
-        "note": "List prices shown; sale prices apply at checkout with no code"
+        "promo": "Scentsational Month: The more you spend, the more you save \u2014 up to 30% off. Extra 10% off with signup.",
+        "as_of": "2026-11-14 07:57 AM ET",
+        "note": "List prices shown; spend-ladder sale prices apply at checkout"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -143,7 +143,7 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-13 08:00 AM ET",
+    "as_of": "2026-11-14 08:01 AM ET",
     "items": [
       {
         "name": "A Day for the Bay",
@@ -184,8 +184,8 @@
         "name": "5th Annual Casino Night",
         "datetime": "Sat Nov 21, 2026 \u00b7 4:30\u201310 PM",
         "place": "RWJBarnabas Health Arena, 1245 Old Freehold Rd, Toms River",
-        "price": "See event page",
-        "link": "https://rwjbhfieldofdreams.com/events/"
+        "price": "$50 per person (21+; includes chips, food, and non-alcoholic drinks)",
+        "link": "https://rwjbhfieldofdreams.com/event/5th-annual-casino-night/"
       },
       {
         "name": "Holiday Shopping Event at Toms River Country Club",
@@ -202,17 +202,24 @@
         "link": "https://jerseyshorecomicbookshow.com/holiday-extravaganza-1"
       },
       {
-        "name": "Pictures with Santa",
-        "datetime": "Fri Nov 27, 2026 \u00b7 10:30 AM\u20131 PM",
-        "place": "Toms River Youth Services building (next to RWJBH Field of Dreams, 1505 N. Bay Ave)",
-        "price": "See event page",
-        "link": "https://rwjbhfieldofdreams.com/events/"
-      },
-      {
         "name": "Sip, Shop & Share the Love",
         "datetime": "Fri Nov 27\u2013Sun Nov 29, 2026",
         "place": "Spire Coffeehouse, 1922 Hooper Avenue, Toms River",
         "price": "See event page",
+        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
+      },
+      {
+        "name": "Pictures with Santa",
+        "datetime": "Fri Nov 27, 2026 \u00b7 10:30 AM\u20131 PM",
+        "place": "Toms River Youth Services building (next to RWJBH Field of Dreams, 1505 N. Bay Ave)",
+        "price": "Registration required",
+        "link": "https://rwjbhfieldofdreams.com/event/pictures-with-santa/"
+      },
+      {
+        "name": "Small Business Saturday in Downtown Toms River",
+        "datetime": "Sat Nov 28, 2026",
+        "place": "Downtown Toms River",
+        "price": "Free to browse",
         "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
       },
       {
@@ -221,13 +228,6 @@
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
         "price": "Free",
         "link": "https://oceancountyhistory.org/ochs-events/"
-      },
-      {
-        "name": "Small Business Saturday in Downtown Toms River",
-        "datetime": "Sat Nov 28, 2026",
-        "place": "Downtown Toms River",
-        "price": "Free to browse",
-        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
       },
       {
         "name": "Holiday Craft & Vendor Fair",
@@ -279,18 +279,25 @@
         "link": "https://www.grunincenter.org/events/occ-concert-band-magic-of-the-season/"
       },
       {
+        "name": "Judy Collins \u2013 Sweet Judy Blue Eyes: Farewell",
+        "datetime": "Wed Dec 9, 2026 \u00b7 7 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$70 / $65",
+        "link": "https://www.grunincenter.org/events/judy-collins-sweet-judy-blue-eyes-farewell/"
+      },
+      {
+        "name": "Westminster Concert Bell Choir",
+        "datetime": "Fri Dec 11, 2026 \u00b7 7 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$25",
+        "link": "https://www.grunincenter.org/events/westminster-concert-bell-choir/"
+      },
+      {
         "name": "Broadway for the Holidays",
         "datetime": "Fri Dec 11\u2013Sun Dec 20, 2026 \u00b7 Fri 7:30 PM; Sat 2 & 7:30 PM; Sun 2 PM (see event page for all dates)",
         "place": "Grunin Center Black Box Theater, Bldg 11B, 1 College Drive, Toms River",
         "price": "$26 adults, $24 seniors, $22 students",
         "link": "https://www.grunincenter.org/events/broadway-for-the-holidays/"
-      },
-      {
-        "name": "The Nutcracker",
-        "datetime": "Sat Dec 12, 2026 \u00b7 1 PM & 4 PM",
-        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
-        "price": "$20 adults, $17 children 12 and under",
-        "link": "https://www.grunincenter.org/events/the-nutcracker/"
       },
       {
         "name": "Winter Solstice Celebration",
@@ -307,6 +314,13 @@
         "link": "https://theoceancountylibrary.libnet.info/event/17135345"
       },
       {
+        "name": "The Nutcracker",
+        "datetime": "Sat Dec 12, 2026 \u00b7 1 PM & 4 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$20 adults, $17 children 12 and under",
+        "link": "https://www.grunincenter.org/events/the-nutcracker/"
+      },
+      {
         "name": "Women of the American Revolution (talk by TJ Fallon)",
         "datetime": "Sun Dec 13, 2026 \u00b7 2\u20134 PM",
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
@@ -321,6 +335,20 @@
         "link": "https://downtowntomsriver.com/event/downtown-farmers-market-2026/2026-12-16/"
       },
       {
+        "name": "Tartan Terrors Celtic Christmas Spectacular",
+        "datetime": "Sat Dec 19, 2026 \u00b7 7 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$48 / $42",
+        "link": "https://www.grunincenter.org/events/tartan-terrors-celtic-christmas-spectacular/"
+      },
+      {
+        "name": "Jukebox Saturday Night: Swingin\u2019 Holiday Spectacular",
+        "datetime": "Sun Dec 20, 2026 \u00b7 3 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$40",
+        "link": "https://www.grunincenter.org/events/jukebox-saturday-night-swingin-holiday-spectacular/"
+      },
+      {
         "name": "Revolutionary Tales & Historic Ramblings In & Around Toms River, NJ (talk by Jeffrey O. Brown)",
         "datetime": "Sun Jan 10, 2027 \u00b7 2\u20134 PM",
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
@@ -328,11 +356,32 @@
         "link": "https://oceancountyhistory.org/ochs-events/"
       },
       {
+        "name": "Ocean Comedy presents Pat McGann",
+        "datetime": "Sat Feb 6, 2027 \u00b7 7:30 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$49 / $44",
+        "link": "https://www.grunincenter.org/events/ocean-comedy-presents-pat-mcgann/"
+      },
+      {
         "name": "Historic Winter Storms of New Jersey (talk by Don Colgan)",
         "datetime": "Sun Feb 7, 2027 \u00b7 2\u20134 PM",
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
         "price": "Free (register by email in advance)",
         "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "Ben Lougheed, Classical Guitar",
+        "datetime": "Fri Feb 12, 2027 \u00b7 2 PM",
+        "place": "Grunin Center B\u00f6sendorfer Recital Room, 1 College Drive, Toms River",
+        "price": "$10 (sold out)",
+        "link": "https://www.grunincenter.org/events/ben-lougheed-classical-guitar/"
+      },
+      {
+        "name": "Actors From The London Stage present Shakespeare\u2019s King Lear",
+        "datetime": "Fri Feb 26\u2013Sat Feb 27, 2027 \u00b7 Fri 7 PM; Sat 2 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$49 / $44",
+        "link": "https://www.grunincenter.org/events/actors-from-the-london-stage-present-shakespeares-king-lear/"
       },
       {
         "name": "The American Revolution on the Jersey Shore (talk by Michael S. Adelberg)",
