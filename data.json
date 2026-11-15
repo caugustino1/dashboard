@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-14 07:57 AM ET",
+    "as_of": "2026-11-15 07:55 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -19,9 +19,9 @@
           "10ml Travel Spray": "$29.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Scentsational Month: The more you spend, the more you save \u2014 up to 30% off. Extra 10% off with signup.",
-        "as_of": "2026-11-14 07:57 AM ET",
-        "note": "List prices shown; spend-ladder sale prices apply at checkout"
+        "promo": "Enjoy up to 30% off your fave scents.",
+        "as_of": "2026-11-15 07:55 AM ET",
+        "note": "List prices shown; sale prices may apply at checkout"
       },
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -48,9 +48,9 @@
           "10ml Travel Spray": "$29.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Scentsational Month: The more you spend, the more you save \u2014 up to 30% off. Extra 10% off with signup.",
-        "as_of": "2026-11-14 07:57 AM ET",
-        "note": "List prices shown; spend-ladder sale prices apply at checkout"
+        "promo": "Enjoy up to 30% off your fave scents.",
+        "as_of": "2026-11-15 07:55 AM ET",
+        "note": "List prices shown; sale prices may apply at checkout"
       },
       {
         "name": "KAYALI Utopia Vanilla Coco | 21",
@@ -63,9 +63,9 @@
           "10ml Miniature": "$32.00",
           "1.5ml": "$4.00"
         },
-        "promo": "Scentsational Month: The more you spend, the more you save \u2014 up to 30% off. Extra 10% off with signup.",
-        "as_of": "2026-11-14 07:57 AM ET",
-        "note": "List prices shown; spend-ladder sale prices apply at checkout"
+        "promo": "Enjoy up to 30% off your fave scents.",
+        "as_of": "2026-11-15 07:55 AM ET",
+        "note": "List prices shown; sale prices may apply at checkout"
       },
       {
         "name": "Burberry Goddess Amber Vanilla EDP Intense",
@@ -143,15 +143,8 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-14 08:01 AM ET",
+    "as_of": "2026-11-15 07:55 AM ET",
     "items": [
-      {
-        "name": "A Day for the Bay",
-        "datetime": "Sat Nov 14, 2026 \u00b7 11 AM\u20135 PM",
-        "place": "Silverton Farms, 1520 Silverton Road, Toms River",
-        "price": "$10 entry donation per person",
-        "link": "https://oceancountytourism.com/event/82088/"
-      },
       {
         "name": "General John Lacey & the Battle of the Crooked Billet (talk by Scott Randolph)",
         "datetime": "Sun Nov 15, 2026 \u00b7 2\u20134 PM",
