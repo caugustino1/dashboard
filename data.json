@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-15 07:55 AM ET",
+    "as_of": "2026-11-16 07:59 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-15 07:55 AM ET",
+        "as_of": "2026-11-16 07:59 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -49,7 +49,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-15 07:55 AM ET",
+        "as_of": "2026-11-16 07:59 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -64,7 +64,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-15 07:55 AM ET",
+        "as_of": "2026-11-16 07:59 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -143,15 +143,8 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-15 07:55 AM ET",
+    "as_of": "2026-11-16 08:01 AM ET",
     "items": [
-      {
-        "name": "General John Lacey & the Battle of the Crooked Billet (talk by Scott Randolph)",
-        "datetime": "Sun Nov 15, 2026 \u00b7 2\u20134 PM",
-        "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
-        "price": "Free (register by email in advance)",
-        "link": "https://oceancountyhistory.org/ochs-events/"
-      },
       {
         "name": "GPAA presents: Present Laughter",
         "datetime": "Fri Nov 20\u2013Sun Nov 22, 2026 \u00b7 Fri 7 PM; Sat 2 & 7 PM; Sun 2 PM",
