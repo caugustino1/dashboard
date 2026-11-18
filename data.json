@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-17 07:59 AM ET",
+    "as_of": "2026-11-18 07:53 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-17 07:59 AM ET",
+        "as_of": "2026-11-18 07:53 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -49,7 +49,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-17 07:59 AM ET",
+        "as_of": "2026-11-18 07:53 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -64,7 +64,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-17 07:59 AM ET",
+        "as_of": "2026-11-18 07:53 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -143,7 +143,7 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-17 08:02 AM ET",
+    "as_of": "2026-11-18 07:56 AM ET",
     "items": [
       {
         "name": "GPAA presents: Present Laughter",
@@ -230,6 +230,13 @@
         "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
       },
       {
+        "name": "A Victorian Christmas: Ghosts, Goblins, and Gumdrops",
+        "datetime": "Tue Dec 1, 2026 \u00b7 6\u20137 PM",
+        "place": "Ocean County Library Toms River Branch, Bishop (upstairs), 101 Washington Street, Toms River",
+        "price": "Free (library program)",
+        "link": "https://theoceancountylibrary.libnet.info/event/17270102"
+      },
+      {
         "name": "Ocean County Christmas Tree Lighting Ceremony",
         "datetime": "Wed Dec 2, 2026 \u00b7 4:45 PM",
         "place": "Ocean County Administration Building West Lawn, 101 Hooper Ave, Toms River",
@@ -270,6 +277,13 @@
         "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
         "price": "$70 / $65",
         "link": "https://www.grunincenter.org/events/judy-collins-sweet-judy-blue-eyes-farewell/"
+      },
+      {
+        "name": "WREP: When Radio Entertained People",
+        "datetime": "Wed Dec 9, 2026 \u00b7 music & trivia 6:30 PM; show 7\u20138:30 PM",
+        "place": "Ocean County Library Toms River Branch, Mancini Hall, 101 Washington Street, Toms River",
+        "price": "Free (Friends-sponsored)",
+        "link": "https://theoceancountylibrary.libnet.info/event/17487045"
       },
       {
         "name": "Westminster Concert Bell Choir",
@@ -321,6 +335,13 @@
         "link": "https://downtowntomsriver.com/event/downtown-farmers-market-2026/2026-12-16/"
       },
       {
+        "name": "Jackson Theater Project presents Nutcracker 2026",
+        "datetime": "Thu Dec 17, 2026 \u00b7 7 PM",
+        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
+        "price": "$29 adults, $22 children 12 and under",
+        "link": "https://www.grunincenter.org/events/jackson-theater-project-presents-nutcracker-2026/"
+      },
+      {
         "name": "Tartan Terrors Celtic Christmas Spectacular",
         "datetime": "Sat Dec 19, 2026 \u00b7 7 PM",
         "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
@@ -340,6 +361,13 @@
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
         "price": "Free (register by email in advance)",
         "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "Holiday Jazz Performance with Brian Betz",
+        "datetime": "Thu Jan 21, 2027 \u00b7 7\u20138:30 PM",
+        "place": "Ocean County Library Toms River Branch, Mancini Hall, 101 Washington Street, Toms River",
+        "price": "Free (register; registration opens Dec 24, 2026)",
+        "link": "https://theoceancountylibrary.libnet.info/event/17913336"
       },
       {
         "name": "Ocean Comedy presents Pat McGann",
