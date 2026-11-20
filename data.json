@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-19 07:54 AM ET",
+    "as_of": "2026-11-20 07:59 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-19 07:54 AM ET",
+        "as_of": "2026-11-20 07:59 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -49,7 +49,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-19 07:54 AM ET",
+        "as_of": "2026-11-20 07:59 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -64,7 +64,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-19 07:54 AM ET",
+        "as_of": "2026-11-20 07:59 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -143,7 +143,7 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-19 07:56 AM ET",
+    "as_of": "2026-11-20 08:02 AM ET",
     "items": [
       {
         "name": "GPAA presents: Present Laughter",
@@ -286,6 +286,13 @@
         "link": "https://theoceancountylibrary.libnet.info/event/17487045"
       },
       {
+        "name": "Dinner with Santa",
+        "datetime": "Thu Dec 10, 2026 \u00b7 seatings 5\u20137 PM and 7\u20139 PM",
+        "place": "Baker's Water Street Bar & Grille, 4 Robbins Pkwy, Toms River",
+        "price": "Reservations recommended; bring a new toy for Toys for Tots",
+        "link": "https://www.waterstreetnj.com/schedule/dinner-with-santa"
+      },
+      {
         "name": "Westminster Concert Bell Choir",
         "datetime": "Fri Dec 11, 2026 \u00b7 7 PM",
         "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
@@ -326,6 +333,13 @@
         "place": "Ocean County Historical Society, 26 Hadley Ave, Toms River",
         "price": "Free (register by email in advance)",
         "link": "https://oceancountyhistory.org/ochs-events/"
+      },
+      {
+        "name": "Pet Photos with Santa at Ocean County Mall",
+        "datetime": "Sun Dec 13, 2026 \u00b7 6\u20138 PM",
+        "place": "Center Court, Ocean County Mall, 1201 Hooper Avenue, Toms River",
+        "price": "Photos available for purchase; reservations recommended",
+        "link": "https://tomsriver.org/pet-photos-with-santa-ocean-county-mall-2026/"
       },
       {
         "name": "Jackson Theater Project presents Nutcracker 2026",
