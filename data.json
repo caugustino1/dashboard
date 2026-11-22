@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-21 07:55 AM ET",
+    "as_of": "2026-11-22 07:56 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-21 07:55 AM ET",
+        "as_of": "2026-11-22 07:56 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -49,7 +49,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-21 07:55 AM ET",
+        "as_of": "2026-11-22 07:56 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -64,7 +64,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-21 07:55 AM ET",
+        "as_of": "2026-11-22 07:56 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -143,7 +143,7 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-21 07:58 AM ET",
+    "as_of": "2026-11-22 07:58 AM ET",
     "items": [
       {
         "name": "GPAA presents: Present Laughter",
@@ -151,27 +151,6 @@
         "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
         "price": "$24",
         "link": "https://www.grunincenter.org/events/gpaa-presents-present-laughter/"
-      },
-      {
-        "name": "Toms River East Marching Raiders Craft & Vendor Fair",
-        "datetime": "Sat Nov 21, 2026 \u00b7 8 AM\u20133 PM",
-        "place": "1225 Raider Way, Toms River",
-        "price": "See event page",
-        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
-      },
-      {
-        "name": "Thanksgiving Homecoming & Harvest Celebration",
-        "datetime": "Sat Nov 21, 2026 \u00b7 12\u20136 PM",
-        "place": "1 Drake Lane, South Toms River",
-        "price": "Free",
-        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
-      },
-      {
-        "name": "5th Annual Casino Night",
-        "datetime": "Sat Nov 21, 2026 \u00b7 4:30\u201310 PM",
-        "place": "RWJBarnabas Health Arena, 1245 Old Freehold Rd, Toms River",
-        "price": "$50 per person (21+; includes chips, food, and non-alcoholic drinks)",
-        "link": "https://rwjbhfieldofdreams.com/event/5th-annual-casino-night/"
       },
       {
         "name": "Holiday Shopping Event at Toms River Country Club",
@@ -270,6 +249,13 @@
         "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
         "price": "$28 adults, $24 seniors, $14 children 12 and under",
         "link": "https://www.grunincenter.org/events/occ-concert-band-magic-of-the-season/"
+      },
+      {
+        "name": "Toms River Police Foundation Jingle Bells Run",
+        "datetime": "Sun Dec 6, 2026 \u00b7 Kiddie Dash 2:45 PM; 1-mile 3 PM; 5K 3:30 PM",
+        "place": "Downtown Toms River, 101 Washington Street",
+        "price": "Registration open; see event page",
+        "link": "https://www.tomsriverpolicefoundation.org/jingle-bells-run"
       },
       {
         "name": "WREP: When Radio Entertained People",
