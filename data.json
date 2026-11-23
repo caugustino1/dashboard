@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-22 07:56 AM ET",
+    "as_of": "2026-11-23 07:58 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-22 07:56 AM ET",
+        "as_of": "2026-11-23 07:58 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -49,7 +49,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-22 07:56 AM ET",
+        "as_of": "2026-11-23 07:58 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -64,7 +64,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-22 07:56 AM ET",
+        "as_of": "2026-11-23 07:58 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -143,29 +143,8 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-22 07:58 AM ET",
+    "as_of": "2026-11-23 07:59 AM ET",
     "items": [
-      {
-        "name": "GPAA presents: Present Laughter",
-        "datetime": "Fri Nov 20\u2013Sun Nov 22, 2026 \u00b7 Fri 7 PM; Sat 2 & 7 PM; Sun 2 PM",
-        "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
-        "price": "$24",
-        "link": "https://www.grunincenter.org/events/gpaa-presents-present-laughter/"
-      },
-      {
-        "name": "Holiday Shopping Event at Toms River Country Club",
-        "datetime": "Sun Nov 22, 2026 \u00b7 10 AM\u20132 PM",
-        "place": "Toms River Country Club, 419 Washington Street, Toms River",
-        "price": "$5 admission (lunch available for purchase)",
-        "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
-      },
-      {
-        "name": "Jersey Shore Comic Book Holiday Extravaganza",
-        "datetime": "Sun Nov 22, 2026 \u00b7 10 AM\u20134 PM",
-        "place": "Toms River Elks Lodge #1875, 600 Washington Street, Toms River",
-        "price": "$5; kids 10 and under free",
-        "link": "https://jerseyshorecomicbookshow.com/holiday-extravaganza-1"
-      },
       {
         "name": "Sip, Shop & Share the Love",
         "datetime": "Fri Nov 27\u2013Sun Nov 29, 2026",
