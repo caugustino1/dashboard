@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-24 07:58 AM ET",
+    "as_of": "2026-11-25 07:56 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-24 07:58 AM ET",
+        "as_of": "2026-11-25 07:56 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -49,7 +49,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-24 07:58 AM ET",
+        "as_of": "2026-11-25 07:56 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -64,7 +64,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-24 07:58 AM ET",
+        "as_of": "2026-11-25 07:56 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -143,7 +143,7 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-24 07:59 AM ET",
+    "as_of": "2026-11-25 07:59 AM ET",
     "items": [
       {
         "name": "Sip, Shop & Share the Love",
@@ -172,6 +172,13 @@
         "place": "American Legion Unit 129, 2025 Church Road, Toms River",
         "price": "See event page",
         "link": "https://tomsriver.org/things-to-do-in-toms-river-this-november/"
+      },
+      {
+        "name": "Holiday Market",
+        "datetime": "Sat Nov 28, 2026 \u00b7 10 AM\u20133 PM",
+        "place": "Saint Barbara Greek Orthodox Church, 2200 Church Road, Toms River",
+        "price": "See event page",
+        "link": "https://oceancountytourism.com/event/holiday-market-6/"
       },
       {
         "name": "Holiday Open House",
