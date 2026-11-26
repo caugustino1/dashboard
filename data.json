@@ -5,7 +5,7 @@
     "tz": "America/New_York"
   },
   "deals": {
-    "as_of": "2026-11-25 07:56 AM ET",
+    "as_of": "2026-11-26 07:55 AM ET",
     "items": [
       {
         "name": "KAYALI Vanilla | 28 EDP",
@@ -20,7 +20,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-25 07:56 AM ET",
+        "as_of": "2026-11-26 07:55 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -49,7 +49,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-25 07:56 AM ET",
+        "as_of": "2026-11-26 07:55 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -64,7 +64,7 @@
           "1.5ml": "$4.00"
         },
         "promo": "Enjoy up to 30% off your fave scents.",
-        "as_of": "2026-11-25 07:56 AM ET",
+        "as_of": "2026-11-26 07:55 AM ET",
         "note": "List prices shown; sale prices may apply at checkout"
       },
       {
@@ -143,7 +143,7 @@
   },
   "fun_things": {
     "source": "Fun Things To Do bot",
-    "as_of": "2026-11-25 07:59 AM ET",
+    "as_of": "2026-11-26 07:57 AM ET",
     "items": [
       {
         "name": "Sip, Shop & Share the Love",
@@ -237,6 +237,13 @@
         "link": "https://www.grunincenter.org/events/occ-concert-band-magic-of-the-season/"
       },
       {
+        "name": "Save Barnegat Bay Winter Market",
+        "datetime": "Sat Dec 5\u2013Sun Dec 6, 2026 \u00b7 Sat 2\u20138 PM; Sun 11 AM\u20134 PM",
+        "place": "Save Barnegat Bay, 117 Haines Road, Toms River",
+        "price": "See event page",
+        "link": "https://oceancountytourism.com/event/save-barnegat-bay-winter-market/2026-12-06/"
+      },
+      {
         "name": "Toms River Police Foundation Jingle Bells Run",
         "datetime": "Sun Dec 6, 2026 \u00b7 Kiddie Dash 2:45 PM; 1-mile 3 PM; 5K 3:30 PM",
         "place": "Downtown Toms River, 101 Washington Street",
@@ -321,6 +328,13 @@
         "link": "https://tomsriver.org/pet-photos-with-santa-ocean-county-mall-2026/"
       },
       {
+        "name": "Pictures with Santa and Free Ice Skating at Winding River",
+        "datetime": "Mon Dec 14\u2013Fri Dec 18, 2026 \u00b7 Santa 5\u20137 PM; free skate 4\u20138 PM",
+        "place": "Winding River Ice Rink, 1211 Whitesville Road, Toms River",
+        "price": "Free ice skating; see event page for photos",
+        "link": "https://www.shorenewsnetwork.com/toms-river-offers-pictures-with-santa-and-free-ice-skating-five-nights-in-december/"
+      },
+      {
         "name": "Jackson Theater Project presents Nutcracker 2026",
         "datetime": "Thu Dec 17, 2026 \u00b7 7 PM",
         "place": "Grunin Center Main Stage, 1 College Drive, Toms River",
@@ -340,6 +354,13 @@
         "place": "Kuts 4 Kids in the Kingdom, 1810 Hooper Ave, Toms River",
         "price": "Appointment required",
         "link": "https://rwjbhfieldofdreams.com/event/sensory-friendly-haircuts-3/"
+      },
+      {
+        "name": "Scoops with Santa at Coney Waffle",
+        "datetime": "Sun Dec 20, 2026 \u00b7 10 AM\u20134 PM",
+        "place": "Coney Waffle, 131 Route 37 East, Toms River",
+        "price": "Free admission (food available for purchase)",
+        "link": "https://tomsriver.org/coney-waffles-scoops-with-santa-event-brings-holiday-cheer-to-toms-river/"
       },
       {
         "name": "Jukebox Saturday Night: Swingin\u2019 Holiday Spectacular",
